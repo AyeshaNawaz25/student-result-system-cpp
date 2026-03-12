@@ -49,3 +49,7 @@ Grade: A
 Ayesha  
 Software Engineering Student# student-result-system-cpp
 A C++ program that calculates student results including percentage, average, grade, and fail subjects.
+## Program Output
+
+![Program Output](Screenshot 2026-03-12 215859.png)
+![Program Output](Screenshot_2026-03-12 221413.png)
